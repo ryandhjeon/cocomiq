@@ -1,0 +1,1184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minos Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-03 21:47+0700\n"
+"PO-Revision-Date: 2015-03-03 21:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: ../404.php:23
+msgid ""
+"Oops sorry, the post you are looking for is not available. Try searching here"
+msgstr ""
+
+#: ../404.php:26 ../search.php:33 ../templates/template-topmenu.php:341
+msgid "Type to search and hit enter..."
+msgstr ""
+
+#: ../404.php:33
+msgid "Or try to browse our latest posts instead?"
+msgstr ""
+
+#: ../404.php:128 ../404.php:158 ../404.php:187 ../blog_f.php:172
+#: ../blog_f.php:201 ../blog_f.php:231 ../blog_g.php:157 ../blog_g.php:187
+#: ../blog_g.php:216 ../blog_gls.php:179 ../blog_gls.php:209
+#: ../blog_gls.php:238 ../blog_gs.php:179 ../blog_gs.php:209
+#: ../blog_gs.php:238 ../blog_l.php:202 ../blog_l.php:231 ../blog_l.php:261
+#: ../blog_r.php:181 ../blog_r.php:210 ../blog_r.php:240 ../index.php:121
+#: ../index.php:150 ../index.php:180 ../search.php:101
+#: ../single-post-f.php:141 ../single-post-f.php:170 ../single-post-f.php:200
+#: ../single-post-l.php:136 ../single-post-l.php:167 ../single-post-l.php:197
+#: ../single-post-r.php:146 ../single-post-r.php:177 ../single-post-r.php:207
+#: ../lib/contentbuilder.lib.php:2752 ../lib/contentbuilder.lib.php:2779
+#: ../lib/contentbuilder.lib.php:2805
+msgid "In"
+msgstr ""
+
+#: ../blog_f.php:261 ../blog_l.php:291 ../blog_r.php:270 ../index.php:210
+msgid "Read More"
+msgstr ""
+
+#: ../blog_f.php:320 ../blog_g.php:273 ../blog_gls.php:315 ../blog_gs.php:315
+#: ../blog_l.php:350 ../blog_r.php:329 ../functions.php:777 ../index.php:266
+#: ../portfolio-2-grid.php:346 ../portfolio-3-grid.php:345
+#: ../portfolio-4-grid.php:345 ../portfolio-classic-2.php:303
+#: ../portfolio-classic-3.php:303 ../portfolio-classic-4.php:303
+#: ../portfolio-classic-fullwidth.php:307
+#: ../portfolio-classic-masonry-fullwidth.php:307
+#: ../portfolio-grid-fullwidth.php:349
+#: ../portfolio-grid-masonry-fullwidth.php:349
+#: ../portfolio-masonry-sidebar.php:310 ../portfolio-sidebar-classic.php:269
+#: ../portfolio-sidebar-grid.php:310 ../search.php:67 ../search.php:150
+#: ../lib/custom.lib.php:254
+msgid "Page"
+msgstr ""
+
+#: ../blog_f.php:320 ../blog_g.php:273 ../blog_gls.php:315 ../blog_gs.php:315
+#: ../blog_l.php:350 ../blog_r.php:329 ../index.php:266
+#: ../portfolio-2-grid.php:346 ../portfolio-3-grid.php:345
+#: ../portfolio-4-grid.php:345 ../portfolio-classic-2.php:303
+#: ../portfolio-classic-3.php:303 ../portfolio-classic-4.php:303
+#: ../portfolio-classic-fullwidth.php:307
+#: ../portfolio-classic-masonry-fullwidth.php:307
+#: ../portfolio-grid-fullwidth.php:349
+#: ../portfolio-grid-masonry-fullwidth.php:349
+#: ../portfolio-masonry-sidebar.php:310 ../portfolio-sidebar-classic.php:269
+#: ../portfolio-sidebar-grid.php:310 ../search.php:150
+msgid "of"
+msgstr ""
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../functions.php:283
+msgid " There is update available for "
+msgstr ""
+
+#: ../functions.php:371
+msgid "Update"
+msgstr ""
+
+#: ../functions.php:379
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:379
+msgid "Enter Title for this content"
+msgstr ""
+
+#: ../functions.php:500
+msgid "Content"
+msgstr ""
+
+#: ../functions.php:500
+msgid "Enter text/HTML content to display in this"
+msgstr ""
+
+#: ../functions.php:771 ../search.php:61
+msgid "Gallery"
+msgstr ""
+
+#: ../functions.php:782 ../search.php:72
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:787 ../search.php:77
+msgid "Service"
+msgstr ""
+
+#: ../functions.php:792 ../search.php:82
+msgid "Client"
+msgstr ""
+
+#: ../functions.php:807
+msgid "View all results"
+msgstr ""
+
+#: ../functions.php:837
+msgid "Thank you! We will get back to you as soon as possible"
+msgstr ""
+
+#: ../functions.php:851
+msgid "Email from contact form"
+msgstr ""
+
+#: ../functions.php:1321
+msgid "Updating..."
+msgstr ""
+
+#: ../functions.php:1322
+msgid "Successfully<br/>Update"
+msgstr ""
+
+#: ../functions.php:1344
+msgid "Theme Setting"
+msgstr ""
+
+#: ../functions.php:1349
+msgid "Save All Changes"
+msgstr ""
+
+#: ../functions.php:1536 ../functions.php:1576 ../functions.php:1650
+#: ../functions.php:1659
+msgid "Delete"
+msgstr ""
+
+#: ../functions.php:1551
+msgid "Below are fonts that already installed."
+msgstr ""
+
+#: ../functions.php:1659
+msgid "Listen current music"
+msgstr ""
+
+#: ../functions.php:1748
+msgid "Theme Default Font"
+msgstr ""
+
+#: ../functions.php:1757
+msgid "Sample Text"
+msgstr ""
+
+#: ../functions.php:2007
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:2008
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:2009 ../templates/comments-form.php:27
+msgid "Website"
+msgstr ""
+
+#: ../get_captcha.php:16
+msgid "Please enter correct captcha text"
+msgstr ""
+
+#: ../portfolio-2-grid.php:67 ../portfolio-3-grid.php:67
+#: ../portfolio-4-grid.php:67 ../portfolio-classic-2.php:67
+#: ../portfolio-classic-3.php:67 ../portfolio-classic-4.php:67
+#: ../portfolio-classic-fullwidth.php:70
+#: ../portfolio-classic-masonry-fullwidth.php:70
+#: ../portfolio-grid-fullwidth.php:70
+#: ../portfolio-grid-masonry-fullwidth.php:70
+#: ../portfolio-masonry-sidebar.php:341 ../portfolio-sidebar-classic.php:300
+#: ../portfolio-sidebar-grid.php:341
+msgid "Sort Portfolio"
+msgstr ""
+
+#: ../portfolio-2-grid.php:74 ../portfolio-3-grid.php:74
+#: ../portfolio-4-grid.php:74 ../portfolio-classic-2.php:74
+#: ../portfolio-classic-3.php:74 ../portfolio-classic-4.php:74
+#: ../portfolio-classic-fullwidth.php:77
+#: ../portfolio-classic-masonry-fullwidth.php:77
+#: ../portfolio-grid-fullwidth.php:77
+#: ../portfolio-grid-masonry-fullwidth.php:77
+#: ../portfolio-masonry-sidebar.php:348 ../portfolio-sidebar-classic.php:307
+#: ../portfolio-sidebar-grid.php:348 ../lib/shortcode.lib.php:1234
+msgid "All"
+msgstr ""
+
+#: ../search.php:29
+#, php-format
+msgid "Search Results for &quot;%s&quot;"
+msgstr ""
+
+#: ../search.php:30
+msgid "If you didn't find what you were looking for, try a new search."
+msgstr ""
+
+#: ../single-portfolio-f.php:141 ../single-post-f.php:332
+#: ../single-post-l.php:332 ../single-post-r.php:343
+msgid "Pages:"
+msgstr ""
+
+#: ../single-portfolio-f.php:146 ../single-post-f.php:337
+#: ../single-post-l.php:337 ../single-post-r.php:348
+msgid "Next page"
+msgstr ""
+
+#: ../single-portfolio-f.php:147 ../single-post-f.php:338
+#: ../single-post-l.php:338 ../single-post-r.php:349
+msgid "Previous page"
+msgstr ""
+
+#: ../single-post-f.php:235 ../single-post-l.php:233 ../single-post-r.php:243
+msgid "Written By"
+msgstr ""
+
+#: ../single-post-f.php:236 ../single-post-l.php:234 ../single-post-r.php:244
+msgid "On"
+msgstr ""
+
+#: ../single-post-f.php:290 ../single-post-l.php:290 ../single-post-r.php:300
+msgid "You might also like"
+msgstr ""
+
+#: ../single-post-f.php:367 ../single-post-l.php:367 ../single-post-r.php:378
+msgid "Previous Article"
+msgstr ""
+
+#: ../single-post-f.php:385 ../single-post-l.php:385 ../single-post-r.php:396
+msgid "Next Article"
+msgstr ""
+
+#: ../fields/post.fields.php:7
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:8
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:9
+msgid "New Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:10
+msgid "View Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:11
+msgid "Search Gallery"
+msgstr ""
+
+#: ../fields/post.fields.php:12
+msgid "No Gallery found"
+msgstr ""
+
+#: ../fields/post.fields.php:13
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:35
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:36
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:37
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:38
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:39
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:40
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:41
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../fields/post.fields.php:42
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:54
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:55
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:56
+msgid "New Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:57
+msgid "View Portfolio"
+msgstr ""
+
+#: ../fields/post.fields.php:58
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../fields/post.fields.php:59
+msgid "No Portfolio found"
+msgstr ""
+
+#: ../fields/post.fields.php:60
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:82
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:83
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:84
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:85
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:86
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:87
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:88
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../fields/post.fields.php:89
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:114
+msgid "Add New Service"
+msgstr ""
+
+#: ../fields/post.fields.php:115
+msgid "Edit Service"
+msgstr ""
+
+#: ../fields/post.fields.php:116
+msgid "New Service"
+msgstr ""
+
+#: ../fields/post.fields.php:117
+msgid "View Service"
+msgstr ""
+
+#: ../fields/post.fields.php:118
+msgid "Search Services"
+msgstr ""
+
+#: ../fields/post.fields.php:119
+msgid "No Service found"
+msgstr ""
+
+#: ../fields/post.fields.php:120
+msgid "No Service found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:142
+msgid "Search Service Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:143
+msgid "All Service Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:144
+msgid "Parent Service Category"
+msgstr ""
+
+#: ../fields/post.fields.php:145
+msgid "Parent Service Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:146
+msgid "Edit Service Category"
+msgstr ""
+
+#: ../fields/post.fields.php:147
+msgid "Update Service Category"
+msgstr ""
+
+#: ../fields/post.fields.php:148
+msgid "Add New Service Category"
+msgstr ""
+
+#: ../fields/post.fields.php:149
+msgid "New Service Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:174
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../fields/post.fields.php:175
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../fields/post.fields.php:176
+msgid "New Testimonial"
+msgstr ""
+
+#: ../fields/post.fields.php:177
+msgid "View Testimonial"
+msgstr ""
+
+#: ../fields/post.fields.php:178
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../fields/post.fields.php:179
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../fields/post.fields.php:180
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:202
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:203
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:204
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../fields/post.fields.php:205
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:206
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../fields/post.fields.php:207
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../fields/post.fields.php:208
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../fields/post.fields.php:209
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:234
+msgid "Add New Client"
+msgstr ""
+
+#: ../fields/post.fields.php:235
+msgid "Edit Client"
+msgstr ""
+
+#: ../fields/post.fields.php:236
+msgid "New Client"
+msgstr ""
+
+#: ../fields/post.fields.php:237
+msgid "View Client"
+msgstr ""
+
+#: ../fields/post.fields.php:238
+msgid "Search Client"
+msgstr ""
+
+#: ../fields/post.fields.php:239
+msgid "No Client found"
+msgstr ""
+
+#: ../fields/post.fields.php:240
+msgid "No Client found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:262
+msgid "Search Client Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:263
+msgid "All Client Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:264
+msgid "Parent Client Category"
+msgstr ""
+
+#: ../fields/post.fields.php:265
+msgid "Parent Client Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:266
+msgid "Edit Client Category"
+msgstr ""
+
+#: ../fields/post.fields.php:267
+msgid "Update Client Category"
+msgstr ""
+
+#: ../fields/post.fields.php:268
+msgid "Add New Client Category"
+msgstr ""
+
+#: ../fields/post.fields.php:269
+msgid "New Client Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:293
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../fields/post.fields.php:294
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../fields/post.fields.php:295
+msgid "New Team Member"
+msgstr ""
+
+#: ../fields/post.fields.php:296
+msgid "View Team Member"
+msgstr ""
+
+#: ../fields/post.fields.php:297
+msgid "Search Team Members"
+msgstr ""
+
+#: ../fields/post.fields.php:298
+msgid "No Team Member found"
+msgstr ""
+
+#: ../fields/post.fields.php:299
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:321
+msgid "Team Service Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:322
+msgid "All Team Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:323
+msgid "Parent Team Category"
+msgstr ""
+
+#: ../fields/post.fields.php:324
+msgid "Parent Team Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:325
+msgid "Edit Team Category"
+msgstr ""
+
+#: ../fields/post.fields.php:326
+msgid "Update Team Category"
+msgstr ""
+
+#: ../fields/post.fields.php:327
+msgid "Add New Team Category"
+msgstr ""
+
+#: ../fields/post.fields.php:328
+msgid "New Team Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:352
+msgid "Add New Pricing"
+msgstr ""
+
+#: ../fields/post.fields.php:353
+msgid "Edit Pricing"
+msgstr ""
+
+#: ../fields/post.fields.php:354
+msgid "New Pricing"
+msgstr ""
+
+#: ../fields/post.fields.php:355
+msgid "View Pricing"
+msgstr ""
+
+#: ../fields/post.fields.php:356
+msgid "Search Pricings"
+msgstr ""
+
+#: ../fields/post.fields.php:357
+msgid "No Pricing found"
+msgstr ""
+
+#: ../fields/post.fields.php:358
+msgid "No Pricing found in Trash"
+msgstr ""
+
+#: ../fields/post.fields.php:380
+msgid "Pricing Service Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:381
+msgid "All Pricing Categories"
+msgstr ""
+
+#: ../fields/post.fields.php:382
+msgid "Parent Pricing Category"
+msgstr ""
+
+#: ../fields/post.fields.php:383
+msgid "Parent Pricing Category:"
+msgstr ""
+
+#: ../fields/post.fields.php:384
+msgid "Edit Pricing Category"
+msgstr ""
+
+#: ../fields/post.fields.php:385
+msgid "Update Pricing Category"
+msgstr ""
+
+#: ../fields/post.fields.php:386
+msgid "Add New Pricing Category"
+msgstr ""
+
+#: ../fields/post.fields.php:387
+msgid "New Pricing Category Name"
+msgstr ""
+
+#: ../fields/post.fields.php:408
+msgid "Thumbnail"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:58
+msgid "Gallery Images"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:100
+msgid "Allowed Files"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:124
+msgid "Delete All Images"
+msgstr ""
+
+#: ../fields/gallery/tg-gallery.php:131
+msgid "Remove"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4354 ../lib/contentbuilder.lib.php:4355
+#: ../lib/contentbuilder.lib.php:4589 ../lib/contentbuilder.lib.php:4590
+msgid "Name *"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4362 ../lib/contentbuilder.lib.php:4363
+#: ../lib/contentbuilder.lib.php:4597 ../lib/contentbuilder.lib.php:4598
+msgid "Email *"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4370 ../lib/contentbuilder.lib.php:4371
+#: ../lib/contentbuilder.lib.php:4605 ../lib/contentbuilder.lib.php:4606
+msgid "Message *"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4378 ../lib/contentbuilder.lib.php:4379
+#: ../lib/contentbuilder.lib.php:4613 ../lib/contentbuilder.lib.php:4614
+msgid "Address"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4386 ../lib/contentbuilder.lib.php:4387
+#: ../lib/contentbuilder.lib.php:4621 ../lib/contentbuilder.lib.php:4622
+msgid "Phone"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4394 ../lib/contentbuilder.lib.php:4395
+#: ../lib/contentbuilder.lib.php:4629 ../lib/contentbuilder.lib.php:4630
+msgid "Mobile"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4402 ../lib/contentbuilder.lib.php:4403
+#: ../lib/contentbuilder.lib.php:4637 ../lib/contentbuilder.lib.php:4638
+msgid "Company Name"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4410 ../lib/contentbuilder.lib.php:4411
+#: ../lib/contentbuilder.lib.php:4645 ../lib/contentbuilder.lib.php:4646
+msgid "Country"
+msgstr ""
+
+#: ../lib/contentbuilder.lib.php:4440 ../lib/contentbuilder.lib.php:4675
+msgid "Send"
+msgstr ""
+
+#: ../lib/custom.lib.php:278
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../lib/custom.lib.php:297
+msgid "at"
+msgstr ""
+
+#: ../lib/custom.lib.php:303
+msgid "Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:303
+msgid "Login to Reply"
+msgstr ""
+
+#: ../lib/custom.lib.php:377
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:385
+msgid "Popular Posts"
+msgstr ""
+
+#: ../lib/custom.lib.php:1396
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+
+#: ../lib/custom.lib.php:1397
+msgid "Excerpts"
+msgstr ""
+
+#: ../lib/custom.lib.php:1398
+msgid "Attachments"
+msgstr ""
+
+#: ../lib/custom.lib.php:1399
+msgid "Links"
+msgstr ""
+
+#: ../lib/custom.lib.php:1400
+msgid "Custom Fields"
+msgstr ""
+
+#: ../lib/custom.lib.php:1401
+msgid "GUIDs"
+msgstr ""
+
+#: ../lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib/menu.lib.php:8
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib/shortcode.lib.php:263
+msgid "Share On"
+msgstr ""
+
+#: ../lib/shortcode.lib.php:2003
+msgid "Go to top"
+msgstr ""
+
+#: ../lib/shortcode.lib.php:2119
+msgid "Follow"
+msgstr ""
+
+#: ../modules/content_builder.php:20
+#: ../modules/content_builder_portfolio.php:19
+msgid "Enable Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:22
+#: ../modules/content_builder_portfolio.php:21
+msgid "To build this page using content builder, please enable this option."
+msgstr ""
+
+#: ../modules/content_builder.php:108
+#: ../modules/content_builder_portfolio.php:51
+msgid "Add"
+msgstr ""
+
+#: ../modules/content_builder.php:175
+#: ../modules/content_builder_portfolio.php:117
+msgid "Import Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:177
+#: ../modules/content_builder_portfolio.php:119
+msgid ""
+"Choose the import file. *Note: Your current content builder content will be "
+"overwritten by imported data"
+msgstr ""
+
+#: ../modules/content_builder.php:185
+#: ../modules/content_builder_portfolio.php:127
+msgid "Export Current Page Content Builder"
+msgstr ""
+
+#: ../modules/content_builder.php:187
+#: ../modules/content_builder_portfolio.php:129
+msgid ""
+"Click to export current content builder data. *Note: Please make sure you "
+"save all changes and no \"unsaved\" module"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1175
+msgid "right now"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1177
+msgid "seconds ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1179
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1181
+msgid "minutes ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1183
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1185
+msgid "hours ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1187
+msgid "yesterday"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1189
+msgid "days ago"
+msgstr ""
+
+#: ../modules/twitteroauth.php:1191
+msgid "over a year ago"
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../modules/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../modules/import/parsers.php:42 ../modules/import/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../modules/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../modules/import/parsers.php:67 ../modules/import/parsers.php:72
+#: ../modules/import/parsers.php:262 ../modules/import/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:134
+#: ../modules/import/wordpress-importer.php:143
+#: ../modules/import/wordpress-importer.php:194
+#: ../modules/import/wordpress-importer.php:198
+#: ../modules/import/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:505
+#: ../modules/import/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../modules/import/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../templates/comments-form.php:13
+#, fuzzy
+msgid "Leave A Reply"
+msgstr "Leave a Reply"
+
+#: ../templates/comments-form.php:21
+msgid "Name (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:24
+msgid "Email (required)"
+msgstr ""
+
+#: ../templates/comments-form.php:33
+msgid "Message"
+msgstr ""
+
+#: ../templates/comments-form.php:37
+msgid "Submit"
+msgstr ""
+
+#: ../templates/script-contact-form.php:47
+msgid "Please enter"
+msgstr ""
+
+#: ../templates/script-contact-form.php:53
+msgid "Please enter valid"
+msgstr ""
+
+#: ../templates/template-header.php:48
+msgid "Blog Archives"
+msgstr ""
+
+#: ../templates/template-share-blog.php:14 ../templates/template-share.php:59
+msgid "Share On Facebook"
+msgstr ""
+
+#: ../templates/template-share-blog.php:15 ../templates/template-share.php:60
+msgid "Share On Twitter"
+msgstr ""
+
+#: ../templates/template-share-blog.php:16 ../templates/template-share.php:61
+msgid "Share On Pinterest"
+msgstr ""
+
+#: ../templates/template-share-blog.php:17 ../templates/template-share.php:62
+msgid "Share On Google+"
+msgstr ""
+
+#: ../templates/template-topmenu.php:56
+msgid "Find our Address"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
